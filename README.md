@@ -1,2 +1,2 @@
-# Data-structures in Golnag
+# Data-structures in Golang
 Data Structures in Golang
