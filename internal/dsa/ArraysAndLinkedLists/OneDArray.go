@@ -11,5 +11,5 @@ func main() {
 	flag.Set("logtostderr", "1")
 	flag.Parse()
 
-	glog.Infoln("Arrays and Linked List .....")
+	glog.Infoln("Arrays and Linked Lists .....")
 }
