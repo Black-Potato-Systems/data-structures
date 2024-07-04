@@ -4,13 +4,12 @@ import (
 	"fmt"
 	"testing"
 
-	arraysandlinkedlists "github.com/blackpotato/data-structures/internal/dsa/ArraysAndLinkedLists"
+	arraysandlinkedlists "github.com/blackpotato/data-structures/internal/dsa/ArraysAndSlices"
 )
 
 func TestOneDArray(t *testing.T) {
 
 	sampleArray := []int{1, 2, 3, 4, 5}
-
 	arraysandlinkedlists.OneDArray[int](sampleArray)
 
 	fmt.Printf("t: %v\n", t)
