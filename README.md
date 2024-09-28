@@ -1,2 +1,2 @@
-# Data Structures and Algorithms in Golang
-Data Structures in Golang
+# Base Structres 
+Base structures
